@@ -1,4 +1,8 @@
-### Hi there 👋
+### Tiago Colin 👋
+
+[![Twitter Badge](https://img.shields.io/badge/-@tiago_colin-1a1a1a?style=flat-square&labelColor=1a1a1a&logo=twitter&logoColor=white&link=https://twitter.com/tiago_colin)](https://twitter.com/tiago_colin) 
+[![Linkedin Badge](https://img.shields.io/badge/-Tiago%20Colin-1a1a1a?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-colin/)](https://www.linkedin.com/in/tiago-colin/) 
+[![Gmail Badge](https://img.shields.io/badge/-tcolinpa@gmail.com-1a1a1a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tcolinpa@gmail.com)](mailto:tcolinpa@gmail.com)
 
 <!--
 **tcolinpa/tcolinpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
